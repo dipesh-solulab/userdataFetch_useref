@@ -27,7 +27,7 @@ const UseRef_controledForm = () => {
             />
           </div>
 
-          <button type="submit" className="btn btn-primary">
+          git init         <button type="submit" className="btn btn-primary">
             Submit
           </button>
         </form>
